@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = p.nordmeyer@zeppelin-university.net
+	name = Philipp Nordmeyer
